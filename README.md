@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ## Ola eu sou a Giovanna Giannini, Estudante de ADS na SpTech!
-Atualmente tentando ser Front-End e estudante de Análise e Desenvolvimento de sistemas pela São Paulo Tech School. <br>
+Atualmente sou estudante de Análise e Desenvolvimento de sistemas pela São Paulo Tech School. <br>
 <div align="center">
   <a href="https://github.com/giovannagiannini24">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=giovannagiannini24&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
